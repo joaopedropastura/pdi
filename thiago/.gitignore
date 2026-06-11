@@ -1,0 +1,14 @@
+# Saidas geradas pelos testes e pela pipeline (regeneraveis)
+saidas/
+
+# PNGs/figuras soltos na raiz
+/*.png
+
+# Saidas avulsas do script legado
+legado/*.png
+legado/resultados.csv
+
+# Artefatos do MATLAB
+*.asv
+*.autosave
+slprj/

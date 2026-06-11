@@ -1,0 +1,72 @@
+arquivo,ferida_id,classe,n_feridas,area_cm2_aprox,obs
+1_c1_nn.jpg,1,fechada,1,17,FEITO
+1_c2_nn.jpg,1,fechada,1,22,FEITO
+1_c3_nn.jpg,1,fechada,2,19,FEITO
+1_c3_nn.jpg,2,fechada,2,1,FEITO
+2_c1_nn.jpg,1,fechada,1,1,pequena sobre a cruz - FEITO
+2_c2_nn.jpg,1,fechada,1,1,pequena sobre a cruz - FEITO
+2_c3_nn.jpg,1,fechada,1,"0,25",FEITO
+2_c4_nn.jpg,1,fechada,1,"0,75",FEITO
+3_c1_nn.jpg,1,fechada,1,16,FEITO
+3_c2_nn.jpg,1,fechada,1,18,FEITO
+3_c3_nn.jpg,1,fechada,1,"17,5",FEITO
+3_c4_nn.jpg,1,fechada,1,16,FEITO
+4_c1_nn.jpg,1,fechada,1,"0,75",pequena sobre a cruz - FEITO
+4_c2_nn.jpg,1,fechada,1,"0,75",pequena sobre a cruz - FEITO
+4_c3_nn.jpg,1,fechada,1,"0,5",pequena sobre a cruz - FEITO
+4_c4_nn.jpg,1,fechada,1,"0,25",pequena sobre a cruz - FEITO
+5b_c1_nn.jpg,1,fechada,3,2,FEITO
+5b_c1_nn.jpg,2,fechada,3,6,FEITO
+5b_c1_nn.jpg,3,fechada,3,7,FEITO
+5b_c2_nn.jpg,1,fechada,3,2,FEITO
+5b_c2_nn.jpg,2,fechada,3,5,FEITO
+5b_c2_nn.jpg,3,fechada,3,8,FEITO
+5b_c3_nn.jpg,1,fechada,3,6,FEITO
+5b_c3_nn.jpg,2,fechada,3,7,FEITO
+5b_c3_nn.jpg,3,fechada,3,1,FEITO
+5b_c4_nn.jpg,1,fechada,3,1,FEITO
+5b_c4_nn.jpg,2,fechada,3,6,FEITO
+5b_c4_nn.jpg,3,fechada,3,6,FEITO
+5a_c1_nn.jpg,1,fechada,2,2,FEITO
+5a_c1_nn.jpg,2,fechada,2,2,FEITO
+5a_c2_nn.jpg,1,fechada,2,"1,5",FEITO
+5a_c2_nn.jpg,2,fechada,2,"1,5",FEITO
+5a_c3_nn.jpg,1,fechada,2,1,FEITO
+5a_c3_nn.jpg,2,fechada,2,1,FEITO
+5a_c4_nn.jpg,1,fechada,2,1,FEITO
+5a_c4_nn.jpg,2,fechada,2,1,FEITO
+6a_c1_nn.jpg,1,fechada,2,8,FEITO
+6a_c1_nn.jpg,2,fechada,2,18,FEITO
+6a_c2_nn.jpg,1,fechada,2,4,FEITO
+6a_c2_nn.jpg,2,fechada,2,21,FEITO
+6a_c3_nn.jpg,1,fechada,2,21,FEITO
+6a_c3_nn.jpg,2,fechada,2,6,FEITO
+6a_c4_nn.jpg,1,fechada,2,"2,5",FEITO
+6a_c4_nn.jpg,2,fechada,2,27,FEITO
+6b_c1_nn.jpg,1,fechada,1,58,FEITO
+6b_c2_nn.jpg,1,fechada,2,50,FEITO
+6b_c2_nn.jpg,2,fechada,2,22,FEITO - foge do plano cartesiano
+6b_c3_nn.jpg,1,fechada,1,87,FEITO
+6b_c4_nn.jpg,1,fechada,1,100,FEITO
+7_c1_nn.jpg,1,aberta,1,117,vao grande no topo - FEITO
+7_c2_nn.jpg,1,aberta,1,88,FEITO
+7_c3_nn.jpg,1,fechada,1,90,FEITO
+8_c1_nn.jpg,1,fechada,1,"0,6",FEITO
+8_c2_nn.jpg,1,fechada,1,"0,4",FEITO
+8_c3_nn.jpg,1,fechada,1,"0,5",FEITO
+9_c1_nn.jpg,1,fechada,1,"0,75",FEITO
+9_c2_nn.jpg,1,fechada,1,"0,5",FEITO
+9_c3_nn.jpg,1,fechada,1,"0,25",FEITO
+9_c4_nn.jpg,1,fechada,1,"0,1",FEITO
+10_c1_nn.jpg,1,fechada,1,"8,5",FEITO
+10_c2_nn.jpg,1,fechada,1,"6,5",FEITO
+10_c3_nn.jpg,1,fechada,1,6,FEITO
+10_c4_nn.jpg,1,fechada,1,5,FEITO
+11_c1_nn.jpg,1,fechada,2,"0,2",FEITO
+11_c1_nn.jpg,2,fechada,2,"0,3",FEITO
+11_c2_nn.jpg,1,fechada,2,"0,1",FEITO
+11_c2_nn.jpg,2,fechada,2,"0,2",FEITO
+11_c3_nn.jpg,1,fechada,1,"0,1",FEITO
+12_3_nn.jpg,1,fechada,1,"0,1",FEITO
+12_c1_nn.jpg,1,fechada,1,"0,2",FEITO
+12_c2_nn.jpg,1,fechada,1,"0,1",pequena na origem - FEITO
